@@ -61,12 +61,15 @@ Daha fazla geliştirme için basit ve genişletilebilir bir yapıya sahiptir.
 ├── log_analysis.py       # Ana Python betiği
 ├── sample.log            # Örnek log dosyası
 └── README.md             # Proje dokümantasyonu
+
 🛠️ Teknolojiler
+
 Python 3.x
 
 Yerleşik Python kütüphaneleri
 
 🎯 Gelecek Geliştirmeler
+
 Daha gelişmiş anomali tespit algoritmaları.
 
 Log görselleştirmesi için web arayüzü.
