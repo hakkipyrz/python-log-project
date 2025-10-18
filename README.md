@@ -40,7 +40,7 @@ Support for different log formats
 📌 Note
 
 This project is developed for learning purposes and serves as a basic application for cybersecurity and log analysis.
-
+-----------------------------------------------------------------------------------------------
 #Turkish
 
 Log Analiz Aracı
