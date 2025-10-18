@@ -44,9 +44,11 @@ This project is developed for learning purposes and serves as a basic applicatio
 #Turkish
 
 Log Analiz Aracı
+
 Sistem log dosyalarını analiz etmek için basit bir Python projesidir. Amacı, en sık kullanılan IP adreslerini tespit etmek, şüpheli aktiviteleri belirlemek ve anormal trafik paternlerini izlemektir.
 
 🚀 Özellikler
+
 Log dosyalarındaki en sık kullanılan IP adreslerini listeler.
 
 Şüpheli IP'leri tespit eder (örneğin, saniyede 100'den fazla istek gönderen IP'ler).
